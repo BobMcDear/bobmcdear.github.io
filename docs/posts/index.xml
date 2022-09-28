@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AI Blog</title>
+    <link>https://bobmcdear.github.io/posts/</link>
+    <description>Recent content in Posts on AI Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>borna.ahz@gmail.com (Borna Ahmadzadeh)</managingEditor>
+    <webMaster>borna.ahz@gmail.com (Borna Ahmadzadeh)</webMaster>
+    <lastBuildDate>Mon, 22 Aug 2022 13:01:24 +0000</lastBuildDate><atom:link href="https://bobmcdear.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention in Vision</title>
+      <link>https://bobmcdear.github.io/posts/attention-in-vision/</link>
+      <pubDate>Mon, 22 Aug 2022 13:01:24 +0000</pubDate>
+      <author>borna.ahz@gmail.com (Borna Ahmadzadeh)</author>
+      <guid>https://bobmcdear.github.io/posts/attention-in-vision/</guid>
+      <description>&lt;p&gt;In this article, popular attention mechanisms in computer vision will be examined and implemented in PyTorch.
+Particularly, each module&amp;rsquo;s methodology is analyzed, with detailed descriptions, visualizations, and code, plus optional mathematical explanations
+for those preferring more formal descriptions. Results on ImageNet are also included.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

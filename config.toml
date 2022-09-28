@@ -1,0 +1,49 @@
+baseurl = "https://bobmcdear.github.io/"
+DefaultContentLanguage = "en"
+title = "AI Blog"
+theme = "beautifulhugo"
+metaDataFormat = "toml"
+publishDir = "docs"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[Params]
+  subtitle = ""
+  #logo = "/favicon.ico"
+  favicon = "/favicon.ico"
+  dateFormat = "2 Jan 2006"
+  comments = true
+  publishDir = "docs"
+  readingTime = true  
+  useHLJS = true
+  delayDisqus = true
+  showRelatedPosts = false
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[Author]
+  name = "Borna Ahmadzadeh"
+  email = "borna.ahz@gmail.com"
+  twitter = "bobmcdear"
+  linkedin = "borna-ahmadzadeh"
+  github = "bobmcdear"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 3
