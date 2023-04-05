@@ -6,8 +6,4 @@ draft: false
 
 # About Me
 
-I am a machine learning developer with specialties covering software development in Python, C/C++, and Swift, data science, machine learning, and deep learning (including related packages such as Scikit-Learn, PyTorch, and ONNX), computer vision, mathematics, and cloud services.
-
-In the past, I have implemented machine learning methods for myriad different tasks, some unseen in academia or industry, and have devised solutions for challenging problems involving too little data, hardware constraints, data drift, interpretablity requirements, et cetera, making me proficient in traditional as well as cutting-edge machine learning branches such as computer vision, self-supervised learning, neural architecture search, Bayesian models, embedded machine learning, and more. 
-
-Currently, I am pursuing opportunities that would enable me to utilize machine learning for immediate real-world applications. Research areas I am keen about encompass multi-modal learning, foundation models, and physics-based deep learning.
+I am a software developer with a proven track record of delivering complexing projects across multiple domains. My areas of expertise cover Python, C/C++, SQL, and Swift, data science and management, machine and deep learning, computer vision, natural language processing, and more. Challenging problems I have tackled in the past include but are not limited to collecting data and developing computer vision models for off-road visual understanding, implementing self-supervised learning techniques to manage data scarcity, employing Bayesian and tree-based models for interpretable personalized healthcare, and deploying machine learning models on a variety of devices under hardware constraints. My work has had a substantial impact on improving the accuracy, efficiency, and reliability of the aforementioned applications, in addition to some being the first of their kind in academia or industry.
